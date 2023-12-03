@@ -1,2 +1,2 @@
 # Product-tracking-system
-C# application that keeps product, employee and manager information in sql database. There are two different panels, employee and administrator. In the employee panel, product addition, correction and stock determination operations are performed.
+C# application that keeps product, employee and manager information in sql database. There are two different panels, employee and administrator. In the employee panel, product addition, correction and stock determination operations are performed. In the administrator panel, you can log in with the administrator password and add employees and set a panel login password for employees. 
